@@ -1,6 +1,6 @@
 template = ""
-rev_id = 17
-template_sha = "9d7c5032d1486d57eb35efed05ab95c661a77c0e"
+rev_id = 18
+template_sha = "3dc402e19368b65f5a7ecb7490d8669cc2537134"
 
 [replacements]
 __LICENSE__ = "LGPLv3"
