@@ -1,12 +1,15 @@
-# Keyboard layout(s) for Sahaptin Tenino
+---
+layout: default
+---
 
-**Legend:**
+# Keyboard layouts for Sahaptin Tenino / Ichishkiin
 
-| Mode       | Default | AltGr/Option | Caps Lock (Mode Switch) | Caps Lock + AltGr/Option |
-| ----------:|:-------:|:------------:|:-----------------------:|:------------------------:|
-|**Standard**| black   | red          | blue                    | purple                   |
-|**Deadkey** | green   | orange       | pink                    | green                    |
+> Tip: These keyboards are interactive — click or tap keys to explore different layers (Shift, Alt, etc.)
 
-# Keyboard Layouts
+## Mac
 
-No keyboard layout defined yet!
+<iframe src="https://keyboard.giellalt.org/embed?kbd=tqn&layout=tqn&platform=macOS&variant=primary"></iframe>
+
+## Windows
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=tqn&layout=tqn&platform=windows&variant=primary"></iframe>
