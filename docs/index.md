@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Documentation for the Sahaptin Tenino keyboards
 
 ## Layouts
